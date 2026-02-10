@@ -17,7 +17,7 @@ Wymagane jest posiadanie zainstalowanego środowiska **Docker Desktop**.
 
 1.  **Sklonuj repozytorium:**
     ```bash
-    git clone [https://github.com/Kaszok2137/Msg-app.git](https://github.com/Kaszok2137/Msg-app.git)
+    git clone https://github.com/Kaszok2137/Msg-app.git
     cd Msg-app
     ```
 
